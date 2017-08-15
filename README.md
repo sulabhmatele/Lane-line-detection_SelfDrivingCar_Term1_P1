@@ -3,6 +3,8 @@ This repo contains the submissions and related material for Udacity "Self Drivin
 
 Please refer:
 
+-- Attached pynb for python code
+
 -- Attached PDF writeup for all concepts and project learnings
 
--- Attached pynb for python code
+[embed]https://github.com/sulabhmatele/SelfDrivingCar_Term1_P1/blob/master/LaneDetectionFirstProjectWriteup.pdf[/embed]
